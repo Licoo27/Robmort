@@ -14,4 +14,4 @@ If you create two or more of them youu can organize combat between them.
 - IR sensor
 
 ## Results
-![picture of the result]img.jpg
+![picture of the result](img.jpg)
